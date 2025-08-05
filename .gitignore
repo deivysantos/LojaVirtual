@@ -1,0 +1,28 @@
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos de banco SQLite (caso existam)
+*.sqlite3
+*.db
+
+# Arquivos de dump de banco
+*.sql
+*.dump
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configs sensíveis
+*.env
+
+# Mídia (uploads)
+media/
+
+# IDEs
+.idea/
+
+# Logs
+*.log
