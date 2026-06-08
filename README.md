@@ -1,14 +1,12 @@
 # 🛒 Loja Virtual com Django
 
-Este é um projeto de loja virtual simples desenvolvido com Django. Ele permite o cadastro de produtos, categorias, carrinho de compras e pedidos.
+Este é um projeto de loja virtual simples desenvolvido com Django. Ele permite o cadastro de pessoas, produtos, categorias, carrinho de compras e pedidos.
 
 > ℹ️ **Dica:** Para acessar o painel administrativo, vá para [http://localhost:8000/admin/](http://localhost:8000/admin/) após rodar o projeto.
 
 Você pode acessar o painel de administração com as credenciais abaixo:
 
 - URL: [http://localhost:8000/admin/](http://localhost:8000/admin/)
-- Usuário: colaborador
-- Senha: w54DSJAj2k@Kv46
 
 ---
 
