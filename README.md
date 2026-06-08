@@ -36,14 +36,6 @@ Você pode acessar o painel de administração com as credenciais abaixo:
 - `CartItem`: item do carrinho associado a um usuário
 - `Order`: representa um pedido
 
----
-
-🧪 Funcionalidades Futuras 
-- Upload de imagem para produtos
-
-- Simulação ou integração de pagamentos
-
-- Avaliação de produto
 
 
 > ⚠️ **Atenção:** Este projeto é apenas para fins educacionais/demonstração.  
